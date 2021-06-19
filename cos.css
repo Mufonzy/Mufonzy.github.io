@@ -1,0 +1,31 @@
+#nav {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0 auto;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-top: 50px;
+}
+
+.navitem {
+    display: inline;
+}
+
+#nav1 {
+    float: left;
+}
+
+#nav2 {
+    float: right;
+    margin-left: 15px;
+}
+
+#nav3 {
+    float: right;
+}
+
+#nav4 {
+    float: right;
+    margin-right: 15px;
+}
